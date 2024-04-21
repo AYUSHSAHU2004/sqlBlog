@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    
+}
+.form2{
+    background-color: rgb(252, 224, 196);
+    padding:20px 60px;
+    margin:40px 60px;
+}
+h1{
+    margin:0 40vw;
+}
